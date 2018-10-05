@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,6.0.0-rc1-unknown-51473d9~66~ubuntu18.04.1*%
-%TF.CreationDate,2018-10-04T17:45:43-06:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,5.0.0-fee4fd1~66~ubuntu18.04.1*%
+%TF.CreationDate,2018-10-05T09:47:17-06:00*%
 %TF.ProjectId,thelio-io-sas,7468656C696F2D696F2D7361732E6B69,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Inr,Plane*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.0-rc1-unknown-51473d9~66~ubuntu18.04.1) date Thu Oct  4 17:45:43 2018*
+G04 Created by KiCad (PCBNEW 5.0.0-fee4fd1~66~ubuntu18.04.1) date Fri Oct  5 09:47:17 2018*
 %MOMM*%
 %LPD*%
 G01*
