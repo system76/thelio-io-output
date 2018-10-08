@@ -1,0 +1,15 @@
+### Module positions - created on Mon Oct  8 15:19:05 2018 ###
+### Printed by Pcbnew version pcbnew 5.0.0-fee4fd1~66~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                 Package                  PosX       PosY       Rot  Side
+POWER0    ATA_FLOPPY_POWER_4  ATA_FLOPPY_POWER_4   -64.7100   -67.9900  180.0000  bottom
+SAS0      MINI_SAS_DATA_36    MINI_SAS_DATA_36     -10.1200   -11.7000  180.0000  bottom
+SAS1      MINI_SAS_DATA_36    MINI_SAS_DATA_36     -10.1200   -27.7000  180.0000  bottom
+SAS2      MINI_SAS_DATA_36    MINI_SAS_DATA_36     -10.1200   -43.7000  180.0000  bottom
+SAS3      MINI_SAS_DATA_36    MINI_SAS_DATA_36     -10.1200   -59.7000  180.0000  bottom
+U.2_0     U2_COMBINED_68      U2_COMBINED_68        42.0000   -10.3000    0.0000  top
+U.2_1     U2_COMBINED_68      U2_COMBINED_68        42.0000   -26.3000    0.0000  top
+U.2_2     U2_COMBINED_68      U2_COMBINED_68        42.0000   -42.3000    0.0000  top
+U.2_3     U2_COMBINED_68      U2_COMBINED_68        42.0000   -58.3000    0.0000  top
+## End
